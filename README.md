@@ -1,6 +1,6 @@
 # CS250
 
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+**How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
 
   I discern what they want and why the want it. Then I plan the best way to implement the users need. After that I write and test the code.
   
